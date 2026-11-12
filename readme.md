@@ -39,22 +39,20 @@ Here is your complete, unified **`README.md`** containing the project overview, 
 ## 📸 App Preview & Walkthrough
 
 ### Dashboard & Analytics
-<div style="display: flex; gap: 10px;">
-  <img src="client/public/screenshots/1.png" width="48%" alt="Screenshot 1" />
-  <img src="client/public/screenshots/2.png" width="48%" alt="Screenshot 2" />
-</div>
+| Screenshot 1 | Screenshot 2 |
+| :---: | :---: |
+| ![Screenshot 1](https://raw.githubusercontent.com/Madhankumar-GJ/sweety/main/client/public/screenshots/1.png) | ![Screenshot 2](https://raw.githubusercontent.com/Madhankumar-GJ/sweety/main/client/public/screenshots/2.png) |
 
 ### Reports & Health Recommendations
-<div style="display: flex; gap: 10px;">
-  <img src="client/public/screenshots/3.png" width="48%" alt="Screenshot 3" />
-  <img src="client/public/screenshots/4.png" width="48%" alt="Screenshot 4" />
-</div>
+| Screenshot 3 | Screenshot 4 |
+| :---: | :---: |
+| ![Screenshot 3](https://raw.githubusercontent.com/Madhankumar-GJ/sweety/main/client/public/screenshots/3.png) | ![Screenshot 4](https://raw.githubusercontent.com/Madhankumar-GJ/sweety/main/client/public/screenshots/4.png) |
 
 ---
 
 ## 🎥 Video Demo Walkthrough
 Watch a quick walkthrough of the working prototype:
-👉 **[Watch Video Demo (kenpath vid compressed.mp4)](client/public/screenshots/kenpath%20vid%20compressed.mp4)**
+👉 **[Watch Video Demo](https://github.com/Madhankumar-GJ/sweety/blob/main/client/public/screenshots/kenpath%20vid%20compressed.mp4)**
 
 ```markdown
 # 🩸 Sweety — Blood Glucose Tracker
