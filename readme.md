@@ -40,16 +40,22 @@ Here is your complete, unified **`README.md`** containing the project overview, 
 ## 📸 App Preview & Walkthrough
 
 | Dashboard & Authentication | Core Logging & Validations |
-| :---: | :---: |
-| ![Screenshot 1](https://github.com/Madhankumar-GJ/sweety/blob/main/client/public/screenshots/1.png?raw=true) | ![Screenshot 2](https://github.com/Madhankumar-GJ/sweety/blob/main/client/public/screenshots/2.png?raw=true) |
+| :---: | :---: |<img width="1917" height="1078" alt="Screenshot 2026-11-12 132146" src="https://github.com/user-attachments/assets/2bfb65bd-9fd9-4989-a7ce-0b88d89b835e" />
+
+| ![Screenshot 1](https://github.com/Madhankumar-GJ/sweety/blob/main/client/public/screenshots/1.png?raw=true) | <img width="1917" height="1078" alt="2" src="https://github.com/user-attachments/assets/32ca16d1-54bf-4cb8-96ad-ea5e8ef38467" />
+![Screenshot 2](https://github.com/Madhankumar-GJ/sweety/blob/main/client/public/screenshots/2.png?raw=true) |
 
 | Recharts Trends & Analytics | Health Recommendations |
-| :---: | :---: |
+| <img width="1917" height="1078" alt="6" src="https://github.com/user-attachments/assets/6fd96b58-6071-4021-ab5e-29a6cb181af3" />
+ | :---: |<img width="1917" height="1078" alt="7" src="https://github.com/user-attachments/assets/9c44431e-d5a7-4af3-9698-ba0b9a8a6b4d" />
+
 | ![Screenshot 3](https://github.com/Madhankumar-GJ/sweety/blob/main/client/public/screenshots/3.png?raw=true) | ![Screenshot 4](https://github.com/Madhankumar-GJ/sweety/blob/main/client/public/screenshots/4.png?raw=true) |
 
 | Statistical Reports (MTD & Daily) | Additional Views |
-| :---: | :---: |
-| ![Screenshot 5](https://github.com/Madhankumar-GJ/sweety/blob/main/client/public/screenshots/5.png?raw=true) | ![Screenshot 6](https://github.com/Madhankumar-GJ/sweety/blob/main/client/public/screenshots/6.png?raw=true) |
+| :---: | :---: |<img width="1917" height="1078" alt="2" src="https://github.com/user-attachments/assets/df8dcd40-d64c-45a4-8293-82731891702b" />
+
+| ![Screenshot 5](https://github.com/Madhankumar-GJ/sweety/blob/main/client/public/screenshots/5.png?raw=true) | ![Screenshot 6](https://github.com/Madhankumar-GJ/sweety/blob/main/client/public/screenshots/6.png?raw=true) |<img width="1917" height="1073" alt="3" src="https://github.com/user-attachments/assets/526b40b4-dd51-48a9-9cd5-5e5c4686291b" />
+
 
 | Full Application Overview |
 | :---: |
@@ -59,6 +65,13 @@ Here is your complete, unified **`README.md`** containing the project overview, 
 
 ## 🎥 Video Demo Walkthrough
 👉 **[Watch Video Demo Walkthrough](https://github.com/Madhankumar-GJ/sweety/blob/main/client/public/screenshots/demo-video.mp4?raw=true)**
+<img width="1917" height="1078" alt="2" src="https://github.com/user-attachments/assets/29705309-fedd-4c95-b1c7-b798ce4ff4ef" />
+<img width="1917" height="1078" alt="1" src="https://github.com/user-attachments/assets/dfa42319-4974-4a9b-93e9-680a8b35daba" />
+
+
+https://github.com/user-attachments/assets/c7e8c33c-9a0c-4b9d-98d7-0ed73cfbe430
+
+
 
 ```markdown
 # 🩸 Sweety — Blood Glucose Tracker
