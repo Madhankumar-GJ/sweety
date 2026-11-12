@@ -36,6 +36,26 @@ sweety/
 
 Here is your complete, unified **`README.md`** containing the project overview, file structure, installation steps, database setup, environment configuration, and running guide all in one block. You can copy and paste this directly into your root `README.md` file:
 
+## 📸 App Preview & Walkthrough
+
+### Dashboard & Analytics
+<div style="display: flex; gap: 10px;">
+  <img src="client/public/screenshots/1.png" width="48%" alt="Screenshot 1" />
+  <img src="client/public/screenshots/2.png" width="48%" alt="Screenshot 2" />
+</div>
+
+### Reports & Health Recommendations
+<div style="display: flex; gap: 10px;">
+  <img src="client/public/screenshots/3.png" width="48%" alt="Screenshot 3" />
+  <img src="client/public/screenshots/4.png" width="48%" alt="Screenshot 4" />
+</div>
+
+---
+
+## 🎥 Video Demo Walkthrough
+Watch a quick walkthrough of the working prototype:
+👉 **[Watch Video Demo (kenpath vid compressed.mp4)](client/public/screenshots/kenpath%20vid%20compressed.mp4)**
+
 ```markdown
 # 🩸 Sweety — Blood Glucose Tracker
 
