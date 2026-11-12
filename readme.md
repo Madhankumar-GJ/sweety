@@ -35,31 +35,30 @@ sweety/
 
 
 Here is your complete, unified **`README.md`** containing the project overview, file structure, installation steps, database setup, environment configuration, and running guide all in one block. You can copy and paste this directly into your root `README.md` file:
-## 📸 App Preview & Walkthrough
+# Sweety - Health & Glucose Tracker
 
 ## 📸 App Preview & Walkthrough
 
 | Dashboard & Authentication | Core Logging & Validations |
 | :---: | :---: |
-| ![Screenshot 1](https://raw.githubusercontent.com/Madhankumar-GJ/sweety/main/client/public/screenshots/1.png) | ![Screenshot 2](https://raw.githubusercontent.com/Madhankumar-GJ/sweety/main/client/public/screenshots/2.png) |
+| ![Screenshot 1](client/public/screenshots/1.png) | ![Screenshot 2](client/public/screenshots/2.png) |
 
 | Recharts Trends & Analytics | Health Recommendations |
 | :---: | :---: |
-| ![Screenshot 3](https://raw.githubusercontent.com/Madhankumar-GJ/sweety/main/client/public/screenshots/3.png) | ![Screenshot 4](https://raw.githubusercontent.com/Madhankumar-GJ/sweety/main/client/public/screenshots/4.png) |
+| ![Screenshot 3](client/public/screenshots/3.png) | ![Screenshot 4](client/public/screenshots/4.png) |
 
 | Statistical Reports (MTD & Daily) | Additional Views |
 | :---: | :---: |
-| ![Screenshot 5](https://raw.githubusercontent.com/Madhankumar-GJ/sweety/main/client/public/screenshots/5.png) | ![Screenshot 6](https://raw.githubusercontent.com/Madhankumar-GJ/sweety/main/client/public/screenshots/6.png) |
+| ![Screenshot 5](client/public/screenshots/5.png) | ![Screenshot 6](client/public/screenshots/6.png) |
 
 | Full Application Overview |
 | :---: |
-| ![Screenshot 7](https://raw.githubusercontent.com/Madhankumar-GJ/sweety/main/client/public/screenshots/7.png) |
+| ![Screenshot 7](client/public/screenshots/7.png) |
 
 ---
 
 ## 🎥 Video Demo Walkthrough
-
-- 👉 **[Watch Video Demo Walkthrough](https://github.com/Madhankumar-GJ/sweety/raw/main/client/public/screenshots/demo-video.mp4)**
+👉 **[Watch Video Demo Walkthrough](client/public/screenshots/demo-video.mp4)**
 
 ```markdown
 # 🩸 Sweety — Blood Glucose Tracker
